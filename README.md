@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm PRATIKSHA TRIPATHI</h1>
 <h3 align="center">I am currently Data Science third year Student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksha1821&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksha1821" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksha1821&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksha1821" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratiksha1821" alt="pratiksha1821" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratiksha1821" alt="pratiksha1821" /></a> </p> -->
 
 - 🔭 I’m currently working on **Data Science and ML technologies**
 
@@ -18,8 +18,11 @@
 - ⚡ Fun fact **I am Resilent**
 
 <h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
 <a href="https://linkedin.com/in/pratiksha-tripathi-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratiksha-tripathi-" height="30" width="40" /></a>
+  <br>
+  
 <a href="https://www.hackerrank.com/pratiksha18t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pratiksha18t" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pratiksha18t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratiksha18t" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tripathipr9lkv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tripathipr9lkv" height="30" width="40" /></a>
