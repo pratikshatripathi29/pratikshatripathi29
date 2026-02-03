@@ -70,18 +70,7 @@ I enjoy learning by building projects and consistently improving my technical an
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratiksha1821&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratiksha1821&layout=compact" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratiksha1821" />
-</p>
-
----
 
 ⭐ *Thank you for visiting my profile. Feel free to explore my repositories and connect with me!*
 *Thanks for visiting my profile! Feel free to explore my repositories.*
