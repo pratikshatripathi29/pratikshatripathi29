@@ -26,30 +26,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 [Interview Preparation Bot](https://github.com/pratikshatripathi29)
-> AI-driven tool that parses your resume and generates tailored interview questions
-
-- Built with **Python, Streamlit, Gemini API, and pdfplumber**
-- Auto-generates **8+ personalized questions** from skills, projects, experience, and education
-- Architected a **3-stage LLM pipeline**: data extraction → question generation → answer evaluation
-- Achieved reliable **JSON-structured outputs** across 100+ test resume uploads
-- Deployed live on **Streamlit Community Cloud** — simulated 50+ mock Q&A sessions
-
----
-
-### 📊 [Crimes Against Women — Power BI Dashboard](https://github.com/pratikshatripathi29)
-> Multi-page interactive dashboard analyzing 3.93M+ crime records across India (2003–2013)
-
-- Built with **Power BI and Power Query**
-- Covers **all 36 states and union territories**, including a 1.55M+ domestic violence breakdown
-- Interactive **state-wise incident map** identifying West Bengal and Uttar Pradesh as top contributors
-- Trend line reveals crime cases rose from **0.3M → 0.5M+** over the decade
-
----
-
-## 🛠️ Tech Stack
 
 **Languages**
 
@@ -93,14 +69,7 @@
 
 ---
 
-## 🏆 Achievements
 
-- 🧩 Solved **100+ DSA problems** on coding platforms, strengthening algorithmic fluency
-- ⭐ Achieved a **4-star C++ rating** on HackerRank
-- 🔢 Implemented a **Sudoku Solver** using recursion and backtracking across a 9×9 grid
-- 🤖 Built and deployed a **live AI tool** on Streamlit Community Cloud
-
----
 
 ## 📊 GitHub Stats
 
