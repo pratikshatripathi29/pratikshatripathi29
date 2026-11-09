@@ -16,16 +16,34 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final-year **B.Tech CSE student** at Lovely Professional University, Punjab (CGPA: 7.55)
-- 🤖 Passionate about building **AI-powered applications** and **data-driven dashboards**
-- 🔭 Currently working with **LLMs, Gemini API, and Streamlit** to build real-world tools
-- 💡 Love turning raw data into actionable insights using **Power BI**
+- 🎓 Final-year **B.Tech CSE student** at Lovely Professional University, Punjab
+- 🤖 I build **AI-powered applications** and **data-driven dashboards**
+- 🔭 Currently working with **LLMs, Gemini API, and Streamlit**
+- 💡 I turn raw data into actionable insights with **Power BI**
 - 🧩 Solved **100+ DSA problems** and counting
 - 🏆 **4-star C++ rating** on HackerRank
 - 📫 Reach me at: **tripathipratiksha18@gmail.com**
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔹 [Project Name 1](https://github.com/pratikshatripathi29/REPO-1)
+One or two lines: what it does and the problem it solves.
+**Tech:** Python · Streamlit · Gemini API
+**Highlights:** [key feature or result] · [live demo link]
+
+### 🔹 [Project Name 2](https://github.com/pratikshatripathi29/REPO-2)
+One or two lines about what it does.
+**Tech:** Python · Pandas · Power BI
+
+### 🔹 [Project Name 3](https://github.com/pratikshatripathi29/REPO-3)
+One or two lines about what it does.
+**Tech:** Python · Scikit-learn
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -69,8 +87,6 @@
 
 ---
 
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -79,7 +95,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikshatripathi29&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=pratikshatripathi29&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -87,5 +103,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pratikshatripathi29&color=6366f1&style=flat-square" alt="Profile views"/>
   <br/><br/>
-  <i>"Building things that matter — one commit at a time."</i>
+  <i>"Building things that matter, one commit at a time."</i>
 </div>
