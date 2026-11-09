@@ -22,22 +22,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 investment-research-agent(https://github.com/pratikshatripathi29/investment-research-agent)
-Argus is an automated AI-driven investment research analyst built with Next.js, LangGraph.js, and Groq LLMs. It takes a company name or ticker, resolves it to its official SEC CIK, executes four parallel research streams, aggregates the findings into an investment brief, applies a rigorous structured evaluation rubric, and runs a devil's-advocate reviewer pass before outputting a finalized investment verdict.
-
-The entire node-by-node execution pipeline is streamed to a custom terminal-inspired dashboard in real time using Server-Sent Events (SSE).
-**Highlights:**  [[live demo link](https://investment-research-agent-chi.vercel.app/)]
-
-### 🔹 [customer-churn-prediction](https://github.com/pratikshatripathi29/customer-churn-prediction)
-
-
-### 🔹 bloomloop-app](https://github.com/pratikshatripathi29/bloomloop-app)
-BloomLoop empowers businesses to manage customer lifecycles, build dynamic audience segments, dispatch simulated multichannel marketing broadcasts, and query business intelligence using natural language—with bank-grade SQL isolation and PII protection.
-
-
----
 
 ## 🛠️ Tech Stack
 
