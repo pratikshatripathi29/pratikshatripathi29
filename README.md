@@ -1,6 +1,7 @@
  <div align="center">
 
-![Uploading Gemini_Generated_Image_dxwa19dxwa19dxwa.png…]()
+<img width="2752" height="1536" alt="Gemini_Generated_Image_dxwa19dxwa19dxwa" src="https://github.com/user-attachments/assets/8fb5da0c-016f-47b8-bfa8-6c7975406fdf" />
+
 
 # Pratiksha Tripathi
 
