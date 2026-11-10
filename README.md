@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="assets/astral-banner.png" alt="Pratiksha Tripathi — Data Science and AI/ML Engineer" width="100%" />
+
 
 # Pratiksha Tripathi
 
